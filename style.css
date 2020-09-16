@@ -1,0 +1,43 @@
+.bg-purple{
+    background-color: rgb(199, 36, 118);
+    border-bottom: 1px solid #ad1f6d;
+}
+
+.height-carousel{
+    max-height: 300px;
+    min-height: 300px;
+}
+
+.container h1{
+    color:rgb(75, 73, 74);
+    border-bottom: 1px solid #696969;
+    padding-bottom: 20px;
+}
+
+i{
+    margin-right: 5px;
+}
+
+.navbar-brand{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.bg-clear{
+    background-color: rgb(212, 212, 212);
+}
+
+.card img{
+    max-height: 500px;
+    min-height: 500px;
+}
+
+.icon-redes{
+    color: white;
+    font-size: 40px;
+    margin-right: 3%;
+}
+
+footer{
+    margin-top: 50px;
+}
